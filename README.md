@@ -1,4 +1,8 @@
-### Hi there 👋
+- A salted fish, lazy & vegetable
+- [My blog](https://blog.littlefox.me/)
+- Nothing else ╮(╯＿╰)╭
+
+[![littlef0x's github stats](https://github-readme-stats.vercel.app/api?username=littlef0x)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **littlef0x/littlef0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
