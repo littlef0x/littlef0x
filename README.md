@@ -1,6 +1,6 @@
 - A salted fish, lazy & vegetable
 - [My blog](https://blog.littlefox.me/)
-- Nothing else ╮(╯＿╰)╭
+- ¯\\_(ツ)_/¯
 
 [![littlef0x's github stats](https://github-readme-stats.vercel.app/api?username=littlef0x)](https://github.com/anuraghazra/github-readme-stats)
 
