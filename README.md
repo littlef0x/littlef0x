@@ -1,4 +1,6 @@
 - A salted fish, lazy & vegetable
+- Newbie in Shell & Python, idiot in others
+- Chinese & English, English prefered
 - [My blog](https://blog.littlefox.me/)
 - ¯\\\_(ツ)\_/¯
 
